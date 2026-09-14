@@ -1,7 +1,8 @@
 # Implementar-primeira-Stack-com-AWS-CloudFormation.
 # Meus Primeiros Passos com AWS: Entendendo o CloudFormation.
+# Stack com AWS CloudFormation.
 
-Oi! Este repositório foi criado para registrar minhas anotações e aprendizados durante as aulas da **Formação AWS Cloud Foundations** na **DIO [Digital Innovation One (DIO)](https://www.dio.me/)**.
+Olá! Este repositório foi criado para registrar minhas anotações e aprendizados durante as aulas da **Formação AWS Cloud Foundations** na **DIO [Digital Innovation One (DIO)](https://www.dio.me/)**.
 
 ---
 **AWS Fundamentos** 
